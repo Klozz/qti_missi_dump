@@ -1,0 +1,14 @@
+# missi-user 12 SKQ1.211006.001 V13.0.6.0.SKOMIXM release-keys
+- manufacturer: xiaomi
+- platform: 
+- codename: missi
+- flavor: missi-user
+- release: 12
+- id: SKQ1.211006.001
+- incremental: V13.0.6.0.SKOMIXM
+- tags: release-keys
+- fingerprint: qti/missi/missi:12/SKQ1.211006.001/V13.0.6.0.SKOMIXM:user/release-keys
+- is_ab: false
+- brand: qti
+- branch: missi-user-12-SKQ1.211006.001-V13.0.6.0.SKOMIXM-release-keys
+- repo: qti_missi_dump
